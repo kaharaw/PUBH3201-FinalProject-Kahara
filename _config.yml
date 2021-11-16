@@ -9,6 +9,7 @@
 
 # url is the the website domain URL without a trailing slash
 url: "http://kerchner.github.io/beautiful-project"
+# https://kaharaw.github.io/PUBH3201-FinalProject-Kahara/ is my website url
 
 # baseurl should be an empty string
 #baseurl: ""
