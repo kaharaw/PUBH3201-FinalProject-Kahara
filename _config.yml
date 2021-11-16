@@ -14,10 +14,10 @@ url: "http://kerchner.github.io/beautiful-project"
 #baseurl: ""
 
 # Name of website
-title: My New Data Science Project
+title: PUBH 3201 Final Project
 
 # Short description of your site
-description: Here's the new description of my project
+description: This project with be exploring the phylogeny of different types of poisions linked to the deadly Ricin Poision. 
 
 # --- Navigation bar options --- #
 
@@ -42,22 +42,19 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Your name goes here
-  email: "youremail@gmail.com"
-  facebook: yourfacebook
-  github: yourgithub
-  twitter: yourtwitter
-#  linkedin: "pub/dean-attali/8/946/143"
-#  stackoverflow: "users/3943160/daattali"
+  name: Wanjiko Kahara
+  email: "kaharaw@gwu.edu"
+  github: kaharaw
+#  linkedin: "https://www.linkedin.com/in/wanjiko-kahara/"
  
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
-  twitter: true
+  twitter: false
   github: true
-  linkedin: false
+  linkedin: true
   stackoverflow: false
   
 share-links-active:
